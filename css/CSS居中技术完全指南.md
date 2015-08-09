@@ -13,7 +13,7 @@
 对于已知宽度的块状元素，可以使用margin:0 auto这个属性来使它居中：
 
     .center-me {
-    		margin: 0 auto;
+    	margin: 0 auto;
     }
 
 多个块状元素居中
